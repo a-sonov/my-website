@@ -495,7 +495,7 @@ blockquote {
   align-items: flex-start;
   font-family: Oswald, sans-serif;
   font-size: 60px;
-  line-height: 150px;
+  line-height: 100px;
   font-weight: 700;
   letter-spacing: normal;
   text-decoration: none;
@@ -503,6 +503,7 @@ blockquote {
   white-space: normal;
   -o-object-fit: fill;
      object-fit: fill;
+  height: 200px;
 }
 
 .heading-2 {
@@ -1004,6 +1005,7 @@ blockquote {
     margin-left: auto;
     padding-top: 20px;
     line-height: 120px;
+    height: 140px;
   }
 
   .column {
