@@ -310,10 +310,28 @@ blockquote {
   margin: 100px auto 60px;
 }
 
+.shop-container {
+  width: 100%;
+  max-width: 940px;
+  margin: 100px auto 60px;
+  position: relative;
+  top: 50px;
+}
+
 .hero-wrapper {
+  position: absolute;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.shop-wrapper {
+  display: block;
+  margin-top: 80px;
+}
+
+#my-store-88141264 {
+  display: block;
 }
 
 .hero-split {
